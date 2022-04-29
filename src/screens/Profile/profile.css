@@ -1,0 +1,25 @@
+
+.profile-container{
+    display: flex;
+    align-items: center;
+    background-color: white !important;
+    background-size:cover;
+    flex-direction: column;
+    z-index: 1;
+   
+}
+
+.profile-pic img{
+    border: none;
+    border-radius: 50px;
+    margin-left: 550px;
+    margin-bottom: 90px;
+}
+.profile-pic p{
+    margin-left: 660px;
+    margin-top: 0;
+}
+
+h1{
+    padding-left: 550px;
+}
